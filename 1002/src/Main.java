@@ -7,5 +7,6 @@ public class Main {
         double raio = scanner.nextDouble();
         double result = 3.14159*(raio*raio);
         System.out.println(String.format("A=%.4f",result));
+
     }
 }
